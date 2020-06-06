@@ -1,2 +1,2 @@
 # snake-game
- OOP snake game in Java
+ OOP snake game in Java and Arduino language
